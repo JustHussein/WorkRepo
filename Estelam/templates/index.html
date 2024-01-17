@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}استعلام ورود{% endblock %}
+
+{% block header %}{% endblock %}
+
+{% block content %}
+{% for error in errors %}
+    <p style="color: red">{{ error }}</p>
+{% endfor %}
+    <div class="login-container">
+        <h2>ورود</h2>
+        <form method="post" action="/login">
+            <label for="username">نام کاربری:</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="password">پسورد:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Login</button>
+        </form>
+    </div>
+
+<hr>
+{% endblock %}
+
+{% block footer %}
+{% endblock %}

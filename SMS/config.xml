@@ -1,0 +1,12 @@
+<config>
+    <host>192.168.217.145</host>
+    <database>AdventureWorks</database>
+    <username>sa</username>
+    <password>test123</password>
+    <ODBC_Driver>SQL Server</ODBC_Driver>
+    <smstype>AFE</smstype>
+    <smsuser>SG_NaftSetere</smsuser>
+    <smspass>4b74b7ef</smspass>
+    <number>5000431310000</number>
+
+</config>

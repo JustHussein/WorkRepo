@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Your Page Title{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('statics', path='/css/bootstrap@502.css') }}">
+    <link rel="stylesheet" href="{{ url_for('statics', path='/css/style.css') }}">
+
+</head>
+<body>
+
+    <header style="height: 100px;">
+        {% block header %} {% endblock %}
+    </header>
+
+    <div class="container">
+        <!-- Main Content Goes Here -->
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+
+    <footer>
+        <!-- Your Footer Content Goes Here -->
+        <p>{% block footer %}{% endblock %}</p>
+        <p dir =ltr>&copy; <span id="year"> </span> (HUMS) واحد طراحی و توسعه نرم افزار</p>
+        <script>
+            var date = new Date().getFullYear();
+            document.getElementById("year").innerHTML = date;
+        </script>
+    </footer>
+
+</body>
+</html>

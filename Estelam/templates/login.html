@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}ورود{% endblock %}
+
+{% block header %}
+    <br>
+    <h1 style="text-align: center;">سامانه استعلام مدرک تحصیلی</h1>
+{% endblock %}
+
+{% block content %}
+
+
+    <div style="display: flex; justify-content: center; align-items: center; height: 70vh;">
+        <div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 400px; text-align: center;">
+            <img src="/statics/images/logo.jfif" alt="Company Icon" style="width: 200px; height: 200px; margin-bottom: 20px;">
+
+            <form action="/" method="post">
+                    {% for error in errors %}
+                        <p style="color: red;">{{ error }}</p>
+                    {% endfor %}
+                <p>
+                    <label for="username">نام کاربری</label><br>
+                    <input type="text" id="username" name="username" value="{{ username }}" required>
+                </p>
+                <p>
+                    <label for="password">پسورد</label><br>
+                    <input type="password" id="password" name="password" value="{{ password }}" required>
+                </p>
+                <input type="submit" class="btn btn-primary" value="ورود">
+
+            </form>
+        </div>
+    </div>
+{% endblock %}
+
+{% block footer %}
+    <!-- Any footer content goes here -->
+{% endblock %}

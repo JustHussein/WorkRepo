@@ -1,0 +1,13 @@
+<config>
+    <host>192.168.217.145</host>
+    <database>estelam</database>
+    <username>sa</username>
+    <password>test123</password>
+    <ODBC_Driver>SQL Server</ODBC_Driver>
+    <url_estelam>https://core.eduix.msrt.ir</url_estelam>
+    <code_estelam />
+    <pass_estelam />
+    <secrete_key>09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7</secrete_key>
+    <expire_minutes>480</expire_minutes>
+    <AD>0</AD>
+</config>

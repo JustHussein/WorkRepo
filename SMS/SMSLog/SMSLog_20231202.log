@@ -1,0 +1,11 @@
+DEBUG:2023-12-02 13:40:46,278:Started!
+INFO:2023-12-02 13:40:46,278:host: 192.168.217.145
+DEBUG:2023-12-02 13:40:46,311:conection establised
+DEBUG:2023-12-02 13:40:46,312:query executed
+DEBUG:2023-12-02 13:40:46,313:AFE
+INFO:2023-12-02 13:40:46,313:[try phone: 09174666040, message: سلام]
+DEBUG:2023-12-02 13:40:46,317:Starting new HTTP connection (1): www.afe.ir:80
+DEBUG:2023-12-02 13:40:46,912:http://www.afe.ir:80 "GET /Url/SendSMS.aspx?Username=SG_NaftSetere&Password=4b74b7ef&Number=5000431310000&Mobile=09174666040&SMS=%D8%B3%D9%84%D8%A7%D9%85 HTTP/1.1" 301 255
+DEBUG:2023-12-02 13:40:47,092:http://www.afe.ir:80 "GET /Url/SendSMS?Username=SG_NaftSetere&Password=4b74b7ef&Number=5000431310000&Mobile=09174666040&SMS=%D8%B3%D9%84%D8%A7%D9%85 HTTP/1.1" 200 None
+INFO:2023-12-02 13:40:47,093:09174666040-SMS sent successfully.
+DEBUG:2023-12-02 13:40:47,094:Finished!

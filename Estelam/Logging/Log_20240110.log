@@ -1,0 +1,574 @@
+DEBUG:2024-01-10 08:38:54,620:Calling on_field_start with no data
+DEBUG:2024-01-10 08:38:54,620:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:38:54,620:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:38:54,620:Calling on_field_end with no data
+DEBUG:2024-01-10 08:38:54,621:Calling on_field_start with no data
+DEBUG:2024-01-10 08:38:54,621:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:38:54,621:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:38:54,621:Calling on_field_end with no data
+DEBUG:2024-01-10 08:38:54,621:Calling on_end with no data
+DEBUG:2024-01-10 08:38:54,624:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:39:12,301:Calling on_field_start with no data
+DEBUG:2024-01-10 08:39:12,303:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:39:12,303:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:39:12,303:Calling on_field_end with no data
+DEBUG:2024-01-10 08:39:12,303:Calling on_field_start with no data
+DEBUG:2024-01-10 08:39:12,303:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:39:12,304:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:39:12,304:Calling on_field_end with no data
+DEBUG:2024-01-10 08:39:12,304:Calling on_end with no data
+DEBUG:2024-01-10 08:39:12,304:ip_add: 192.168.217.145
+INFO:2024-01-10 08:39:12,321:login successfully: f.zakeri
+INFO:2024-01-10 08:39:12,326:Address(host='127.0.0.1', port=55316)
+DEBUG:2024-01-10 08:39:12,333:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:39:12,343:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:39:31,772:Calling on_field_start with no data
+DEBUG:2024-01-10 08:39:31,772:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:39:31,773:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:39:31,773:Calling on_field_end with no data
+DEBUG:2024-01-10 08:39:31,773:Calling on_field_start with no data
+DEBUG:2024-01-10 08:39:31,773:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:39:31,773:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:39:31,773:Calling on_field_end with no data
+DEBUG:2024-01-10 08:39:31,773:Calling on_end with no data
+DEBUG:2024-01-10 08:39:31,773:ip_add: 192.168.217.145
+INFO:2024-01-10 08:39:31,776:login successfully: f.zakeri
+INFO:2024-01-10 08:39:31,778:Address(host='127.0.0.1', port=55326)
+DEBUG:2024-01-10 08:39:31,785:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:39:31,794:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:40:07,252:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:07,252:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:40:07,253:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:40:07,253:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:07,253:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:07,253:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:40:07,253:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:40:07,253:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:07,253:Calling on_end with no data
+DEBUG:2024-01-10 08:40:07,253:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:40:17,536:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:40:17,537:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:17,537:Calling on_end with no data
+DEBUG:2024-01-10 08:40:17,537:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:40:19,160:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:19,160:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:40:19,160:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:40:19,160:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:19,160:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:19,160:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:40:19,161:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:40:19,161:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:19,161:Calling on_end with no data
+DEBUG:2024-01-10 08:40:19,161:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_start with no data
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:40:26,568:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:40:26,569:Calling on_field_end with no data
+DEBUG:2024-01-10 08:40:26,569:Calling on_end with no data
+DEBUG:2024-01-10 08:40:26,569:ip_add: 192.168.217.145
+INFO:2024-01-10 08:40:26,605:login successfully: f.zakeri
+INFO:2024-01-10 08:40:26,609:Address(host='127.0.0.1', port=55352)
+DEBUG:2024-01-10 08:40:26,620:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:40:26,639:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_start with no data
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_end with no data
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_start with no data
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:42:40,243:Calling on_field_end with no data
+DEBUG:2024-01-10 08:42:40,243:Calling on_end with no data
+DEBUG:2024-01-10 08:42:40,243:ip_add: 192.168.217.145
+INFO:2024-01-10 08:42:40,279:login successfully: f.zakeri
+INFO:2024-01-10 08:42:40,283:Address(host='127.0.0.1', port=55373)
+DEBUG:2024-01-10 08:42:40,290:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:42:40,299:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_start with no data
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_data with data[9:17]
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_end with no data
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_start with no data
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_name with data[18:26]
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_data with data[27:31]
+DEBUG:2024-01-10 08:43:04,045:Calling on_field_end with no data
+DEBUG:2024-01-10 08:43:04,045:Calling on_end with no data
+DEBUG:2024-01-10 08:43:04,045:ip_add: 192.168.217.145
+INFO:2024-01-10 08:43:04,049:login successfully: f.zakeri
+INFO:2024-01-10 08:43:04,051:Address(host='127.0.0.1', port=55377)
+DEBUG:2024-01-10 08:43:04,056:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:43:04,064:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:44:15,553:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:15,553:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:44:15,553:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:44:15,553:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:15,554:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:15,554:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:44:15,554:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:44:15,554:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:15,554:Calling on_end with no data
+DEBUG:2024-01-10 08:44:15,554:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:44:30,590:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:30,590:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:44:30,590:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:44:30,590:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:30,590:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:30,591:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:44:30,591:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:44:30,591:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:30,591:Calling on_end with no data
+DEBUG:2024-01-10 08:44:30,592:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:44:33,374:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:33,374:Calling on_end with no data
+DEBUG:2024-01-10 08:44:33,375:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:44:34,903:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:44:34,904:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:34,904:Calling on_end with no data
+DEBUG:2024-01-10 08:44:34,905:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:44:52,584:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:52,584:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:44:52,584:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:44:52,584:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:52,584:Calling on_field_start with no data
+DEBUG:2024-01-10 08:44:52,585:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:44:52,585:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:44:52,585:Calling on_field_end with no data
+DEBUG:2024-01-10 08:44:52,585:Calling on_end with no data
+DEBUG:2024-01-10 08:44:52,585:ip_add: 192.168.217.145
+INFO:2024-01-10 08:44:52,590:login successfully: h.mirzaei
+INFO:2024-01-10 08:44:52,596:Address(host='127.0.0.1', port=55398)
+DEBUG:2024-01-10 08:44:52,610:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:44:52,631:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:45:07,543:Calling on_field_start with no data
+DEBUG:2024-01-10 08:45:07,544:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:45:07,544:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:45:07,544:Calling on_field_end with no data
+DEBUG:2024-01-10 08:45:07,544:Calling on_end with no data
+DEBUG:2024-01-10 08:45:07,545:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:45:07,549:NationalID: 3410146962
+INFO:2024-01-10 08:45:07,549:3410146962
+DEBUG:2024-01-10 08:45:07,553:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:45:18,037:Calling on_field_start with no data
+DEBUG:2024-01-10 08:45:18,037:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:45:18,037:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:45:18,037:Calling on_field_end with no data
+DEBUG:2024-01-10 08:45:18,037:Calling on_end with no data
+DEBUG:2024-01-10 08:45:18,038:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:45:18,041:NationalID: 3410146962
+INFO:2024-01-10 08:45:18,041:3410146962
+DEBUG:2024-01-10 08:45:18,042:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:45:19,796:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 08:45:24,833:Calling on_field_start with no data
+DEBUG:2024-01-10 08:45:24,833:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:45:24,833:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:45:24,833:Calling on_field_end with no data
+DEBUG:2024-01-10 08:45:24,833:Calling on_end with no data
+DEBUG:2024-01-10 08:45:24,835:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:45:24,838:NationalID: 3410146962
+INFO:2024-01-10 08:45:24,839:3410146962
+DEBUG:2024-01-10 08:45:24,840:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:45:29,752:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 08:45:31,838:Calling on_field_start with no data
+DEBUG:2024-01-10 08:45:31,838:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:45:31,838:Calling on_field_end with no data
+DEBUG:2024-01-10 08:45:31,839:Calling on_end with no data
+DEBUG:2024-01-10 08:45:31,839:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_start with no data
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_end with no data
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_start with no data
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 08:45:55,960:Calling on_field_end with no data
+DEBUG:2024-01-10 08:45:55,961:Calling on_end with no data
+DEBUG:2024-01-10 08:45:55,961:ip_add: 192.168.217.145
+INFO:2024-01-10 08:45:55,965:login successfully: h.mirzaei
+INFO:2024-01-10 08:45:55,967:Address(host='127.0.0.1', port=55416)
+DEBUG:2024-01-10 08:45:55,973:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:45:55,980:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:01,223:Calling on_field_start with no data
+DEBUG:2024-01-10 08:46:01,224:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:46:01,224:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:46:01,224:Calling on_field_end with no data
+DEBUG:2024-01-10 08:46:01,224:Calling on_end with no data
+DEBUG:2024-01-10 08:46:01,225:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:01,228:NationalID: 3410146962
+INFO:2024-01-10 08:46:01,228:3410146962
+DEBUG:2024-01-10 08:46:01,229:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:46:02,543:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 08:46:12,016:Calling on_field_start with no data
+DEBUG:2024-01-10 08:46:12,016:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:46:12,016:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:46:12,016:Calling on_field_end with no data
+DEBUG:2024-01-10 08:46:12,016:Calling on_end with no data
+DEBUG:2024-01-10 08:46:12,017:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:12,021:NationalID: 3392761257
+INFO:2024-01-10 08:46:12,021:3392761257
+DEBUG:2024-01-10 08:46:12,023:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:46:13,373:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1911
+DEBUG:2024-01-10 08:46:23,611:Calling on_field_start with no data
+DEBUG:2024-01-10 08:46:23,611:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:46:23,611:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:46:23,611:Calling on_field_end with no data
+DEBUG:2024-01-10 08:46:23,611:Calling on_end with no data
+DEBUG:2024-01-10 08:46:23,612:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:30,088:Calling on_field_start with no data
+DEBUG:2024-01-10 08:46:30,089:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:46:30,089:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:46:30,089:Calling on_field_end with no data
+DEBUG:2024-01-10 08:46:30,089:Calling on_end with no data
+DEBUG:2024-01-10 08:46:30,089:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:30,093:NationalID: 3410146962
+INFO:2024-01-10 08:46:30,093:3410146962
+DEBUG:2024-01-10 08:46:30,094:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:46:37,711:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 08:46:43,887:Calling on_field_start with no data
+DEBUG:2024-01-10 08:46:43,888:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:46:43,888:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:46:43,888:Calling on_field_end with no data
+DEBUG:2024-01-10 08:46:43,888:Calling on_end with no data
+DEBUG:2024-01-10 08:46:43,889:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:43,893:NationalID: 2480049558
+INFO:2024-01-10 08:46:43,893:2480049558
+DEBUG:2024-01-10 08:46:43,894:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:46:45,360:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1796
+DEBUG:2024-01-10 08:46:49,455:Calling on_field_start with no data
+DEBUG:2024-01-10 08:46:49,455:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:46:49,455:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:46:49,455:Calling on_field_end with no data
+DEBUG:2024-01-10 08:46:49,455:Calling on_end with no data
+DEBUG:2024-01-10 08:46:49,455:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:46:49,459:NationalID: 3410048065
+INFO:2024-01-10 08:46:49,459:3410048065
+DEBUG:2024-01-10 08:46:49,461:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:46:50,851:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1977
+DEBUG:2024-01-10 08:47:20,735:Calling on_field_start with no data
+DEBUG:2024-01-10 08:47:20,736:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:47:20,736:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:47:20,736:Calling on_field_end with no data
+DEBUG:2024-01-10 08:47:20,736:Calling on_end with no data
+DEBUG:2024-01-10 08:47:20,737:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:47:20,741:NationalID: 3410146962
+INFO:2024-01-10 08:47:20,741:3410146962
+DEBUG:2024-01-10 08:47:20,743:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:47:22,337:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 839
+DEBUG:2024-01-10 08:47:47,787:Calling on_field_start with no data
+DEBUG:2024-01-10 08:47:47,787:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 08:47:47,787:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 08:47:47,787:Calling on_field_end with no data
+DEBUG:2024-01-10 08:47:47,787:Calling on_end with no data
+DEBUG:2024-01-10 08:47:47,788:ip_add: 192.168.217.145
+DEBUG:2024-01-10 08:47:47,791:NationalID: 3410146962
+INFO:2024-01-10 08:47:47,791:3410146962
+DEBUG:2024-01-10 08:47:47,792:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 08:47:50,182:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_start with no data
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_end with no data
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_start with no data
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 10:07:53,140:Calling on_field_end with no data
+DEBUG:2024-01-10 10:07:53,140:Calling on_end with no data
+DEBUG:2024-01-10 10:07:53,140:ip_add: 192.168.217.145
+INFO:2024-01-10 10:07:53,183:login successfully: h.mirzaei
+INFO:2024-01-10 10:07:53,188:Address(host='127.0.0.1', port=55849)
+DEBUG:2024-01-10 10:07:53,193:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:07:53,200:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:07:56,746:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:08:07,715:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:08:08,727:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:08:49,375:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:10:02,093:Calling on_field_start with no data
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_end with no data
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_start with no data
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 10:10:02,094:Calling on_field_end with no data
+DEBUG:2024-01-10 10:10:02,095:Calling on_end with no data
+DEBUG:2024-01-10 10:10:02,095:ip_add: 192.168.217.145
+INFO:2024-01-10 10:10:02,128:login successfully: h.mirzaei
+INFO:2024-01-10 10:10:02,132:Address(host='127.0.0.1', port=55874)
+DEBUG:2024-01-10 10:10:02,139:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:10:02,145:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:10:07,651:Calling on_field_start with no data
+DEBUG:2024-01-10 10:10:07,651:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:10:07,651:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:10:07,651:Calling on_field_end with no data
+DEBUG:2024-01-10 10:10:07,651:Calling on_end with no data
+DEBUG:2024-01-10 10:10:07,652:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:10:07,656:NationalID: 3410146962
+INFO:2024-01-10 10:10:07,656:3410146962
+DEBUG:2024-01-10 10:10:07,658:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:10:09,595:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 10:26:44,453:Calling on_field_start with no data
+DEBUG:2024-01-10 10:26:44,454:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:26:44,454:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:26:44,454:Calling on_field_end with no data
+DEBUG:2024-01-10 10:26:44,454:Calling on_end with no data
+DEBUG:2024-01-10 10:26:44,455:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:26:44,480:NationalID: 3410146962
+INFO:2024-01-10 10:26:44,480:3410146962
+DEBUG:2024-01-10 10:26:44,480:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:26:45,994:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 10:26:50,578:Calling on_field_start with no data
+DEBUG:2024-01-10 10:26:50,578:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:26:50,578:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:26:50,578:Calling on_field_end with no data
+DEBUG:2024-01-10 10:26:50,579:Calling on_end with no data
+DEBUG:2024-01-10 10:26:50,579:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:26:50,583:NationalID: 3410146962
+INFO:2024-01-10 10:26:50,583:3410146962
+DEBUG:2024-01-10 10:26:50,584:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:26:52,004:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 10:27:06,899:Calling on_field_start with no data
+DEBUG:2024-01-10 10:27:06,899:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:27:06,899:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:27:06,899:Calling on_field_end with no data
+DEBUG:2024-01-10 10:27:06,899:Calling on_end with no data
+DEBUG:2024-01-10 10:27:06,900:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:27:06,903:NationalID: 2480049558
+INFO:2024-01-10 10:27:06,903:2480049558
+DEBUG:2024-01-10 10:27:06,906:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:27:09,537:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1808
+DEBUG:2024-01-10 10:28:21,192:Calling on_field_start with no data
+DEBUG:2024-01-10 10:28:21,192:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:28:21,192:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:28:21,192:Calling on_field_end with no data
+DEBUG:2024-01-10 10:28:21,192:Calling on_end with no data
+DEBUG:2024-01-10 10:28:21,193:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:28:21,197:NationalID: 3380320420
+INFO:2024-01-10 10:28:21,197:3380320420
+DEBUG:2024-01-10 10:28:21,199:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:28:26,520:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 10:28:40,263:Calling on_field_start with no data
+DEBUG:2024-01-10 10:28:40,264:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:28:40,264:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:28:40,264:Calling on_field_end with no data
+DEBUG:2024-01-10 10:28:40,264:Calling on_end with no data
+DEBUG:2024-01-10 10:28:40,265:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:28:40,269:NationalID: 3380320420
+INFO:2024-01-10 10:28:40,269:3380320420
+DEBUG:2024-01-10 10:28:40,271:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:28:41,733:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 839
+DEBUG:2024-01-10 10:29:10,668:Calling on_field_start with no data
+DEBUG:2024-01-10 10:29:10,668:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:29:10,668:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:29:10,668:Calling on_field_end with no data
+DEBUG:2024-01-10 10:29:10,668:Calling on_end with no data
+DEBUG:2024-01-10 10:29:10,669:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:29:10,673:NationalID: 3410086961
+INFO:2024-01-10 10:29:10,673:3410086961
+DEBUG:2024-01-10 10:29:10,674:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:29:12,021:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 840
+DEBUG:2024-01-10 10:29:47,435:Calling on_field_start with no data
+DEBUG:2024-01-10 10:29:47,435:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:29:47,435:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:29:47,435:Calling on_field_end with no data
+DEBUG:2024-01-10 10:29:47,435:Calling on_end with no data
+DEBUG:2024-01-10 10:29:47,436:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:29:47,439:NationalID: 3392761257
+INFO:2024-01-10 10:29:47,439:3392761257
+DEBUG:2024-01-10 10:29:47,441:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:29:48,745:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1920
+DEBUG:2024-01-10 10:35:27,528:Calling on_field_start with no data
+DEBUG:2024-01-10 10:35:27,528:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:35:27,528:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:35:27,528:Calling on_field_end with no data
+DEBUG:2024-01-10 10:35:27,529:Calling on_end with no data
+DEBUG:2024-01-10 10:35:27,540:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:35:27,579:NationalID: 3392761257
+INFO:2024-01-10 10:35:27,579:3392761257
+DEBUG:2024-01-10 10:35:27,585:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:35:31,756:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1916
+DEBUG:2024-01-10 10:35:36,371:Calling on_field_start with no data
+DEBUG:2024-01-10 10:35:36,371:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:35:36,371:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:35:36,371:Calling on_field_end with no data
+DEBUG:2024-01-10 10:35:36,371:Calling on_end with no data
+DEBUG:2024-01-10 10:35:36,372:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:35:36,386:NationalID: 3392761257
+INFO:2024-01-10 10:35:36,386:3392761257
+DEBUG:2024-01-10 10:35:36,387:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:35:37,726:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1923
+DEBUG:2024-01-10 10:35:44,590:Calling on_field_start with no data
+DEBUG:2024-01-10 10:35:44,591:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:35:44,591:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:35:44,591:Calling on_field_end with no data
+DEBUG:2024-01-10 10:35:44,591:Calling on_end with no data
+DEBUG:2024-01-10 10:35:44,592:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:35:44,594:NationalID: 3392761257
+INFO:2024-01-10 10:35:44,595:3392761257
+DEBUG:2024-01-10 10:35:44,596:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:35:47,977:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1921
+DEBUG:2024-01-10 10:36:15,584:Calling on_field_start with no data
+DEBUG:2024-01-10 10:36:15,585:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:36:15,585:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:36:15,585:Calling on_field_end with no data
+DEBUG:2024-01-10 10:36:15,585:Calling on_end with no data
+DEBUG:2024-01-10 10:36:15,594:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:36:15,629:NationalID: 3392761257
+INFO:2024-01-10 10:36:15,629:3392761257
+DEBUG:2024-01-10 10:36:15,631:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:36:16,971:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1916
+DEBUG:2024-01-10 10:41:11,077:Calling on_field_start with no data
+DEBUG:2024-01-10 10:41:11,077:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:41:11,077:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:41:11,077:Calling on_field_end with no data
+DEBUG:2024-01-10 10:41:11,077:Calling on_end with no data
+DEBUG:2024-01-10 10:41:11,086:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:41:11,129:NationalID: 3392761257
+INFO:2024-01-10 10:41:11,130:3392761257
+DEBUG:2024-01-10 10:41:11,132:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:41:12,697:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1920
+DEBUG:2024-01-10 10:41:22,669:Calling on_field_start with no data
+DEBUG:2024-01-10 10:41:22,669:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:41:22,669:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:41:22,669:Calling on_field_end with no data
+DEBUG:2024-01-10 10:41:22,669:Calling on_end with no data
+DEBUG:2024-01-10 10:41:22,670:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:41:22,685:NationalID: 3392761257
+INFO:2024-01-10 10:41:22,685:3392761257
+DEBUG:2024-01-10 10:41:22,686:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:41:24,479:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1917
+DEBUG:2024-01-10 10:44:02,687:Calling on_field_start with no data
+DEBUG:2024-01-10 10:44:02,687:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:44:02,687:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:44:02,687:Calling on_field_end with no data
+DEBUG:2024-01-10 10:44:02,687:Calling on_end with no data
+DEBUG:2024-01-10 10:44:02,698:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:44:02,733:NationalID: 3410526072
+INFO:2024-01-10 10:44:02,733:3410526072
+DEBUG:2024-01-10 10:44:02,737:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:44:06,758:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 842
+DEBUG:2024-01-10 10:44:27,158:Calling on_field_start with no data
+DEBUG:2024-01-10 10:44:27,158:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:44:27,159:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:44:27,159:Calling on_field_end with no data
+DEBUG:2024-01-10 10:44:27,159:Calling on_end with no data
+DEBUG:2024-01-10 10:44:27,160:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:44:27,176:NationalID: 1376647265
+INFO:2024-01-10 10:44:27,176:1376647265
+DEBUG:2024-01-10 10:44:27,177:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:44:28,507:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 842
+DEBUG:2024-01-10 10:44:49,598:Calling on_field_start with no data
+DEBUG:2024-01-10 10:44:49,598:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:44:49,598:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:44:49,598:Calling on_field_end with no data
+DEBUG:2024-01-10 10:44:49,598:Calling on_end with no data
+DEBUG:2024-01-10 10:44:49,599:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:44:49,602:NationalID: 3257666144
+INFO:2024-01-10 10:44:49,603:3257666144
+DEBUG:2024-01-10 10:44:49,604:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:44:56,369:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 404 842
+DEBUG:2024-01-10 10:45:29,418:Calling on_field_start with no data
+DEBUG:2024-01-10 10:45:29,418:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:45:29,418:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:45:29,418:Calling on_field_end with no data
+DEBUG:2024-01-10 10:45:29,418:Calling on_end with no data
+DEBUG:2024-01-10 10:45:29,419:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:45:29,423:NationalID: 3380167843
+INFO:2024-01-10 10:45:29,423:3380167843
+DEBUG:2024-01-10 10:45:29,425:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:45:30,750:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1984
+DEBUG:2024-01-10 10:46:39,849:Calling on_field_start with no data
+DEBUG:2024-01-10 10:46:39,849:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 10:46:39,849:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 10:46:39,850:Calling on_field_end with no data
+DEBUG:2024-01-10 10:46:39,850:Calling on_end with no data
+DEBUG:2024-01-10 10:46:39,860:ip_add: 192.168.217.145
+DEBUG:2024-01-10 10:46:39,899:NationalID: 3380167843
+INFO:2024-01-10 10:46:39,899:3380167843
+DEBUG:2024-01-10 10:46:39,902:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 10:46:44,975:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1981
+DEBUG:2024-01-10 12:25:40,969:Calling on_field_start with no data
+DEBUG:2024-01-10 12:25:40,969:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 12:25:40,970:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 12:25:40,970:Calling on_field_end with no data
+DEBUG:2024-01-10 12:25:40,970:Calling on_field_start with no data
+DEBUG:2024-01-10 12:25:40,970:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 12:25:40,970:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 12:25:40,970:Calling on_field_end with no data
+DEBUG:2024-01-10 12:25:40,970:Calling on_end with no data
+DEBUG:2024-01-10 12:25:40,970:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:13:55,647:Calling on_field_start with no data
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_data with data[9:23]
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_end with no data
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_start with no data
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_name with data[24:32]
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_data with data[33:42]
+DEBUG:2024-01-10 15:13:55,650:Calling on_field_end with no data
+DEBUG:2024-01-10 15:13:55,650:Calling on_end with no data
+DEBUG:2024-01-10 15:13:55,652:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:15:17,975:Calling on_field_start with no data
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_data with data[9:23]
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_end with no data
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_start with no data
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_name with data[24:32]
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_data with data[33:42]
+DEBUG:2024-01-10 15:15:17,976:Calling on_field_end with no data
+DEBUG:2024-01-10 15:15:17,977:Calling on_end with no data
+DEBUG:2024-01-10 15:15:17,977:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_start with no data
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_end with no data
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_start with no data
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 15:15:53,776:Calling on_field_end with no data
+DEBUG:2024-01-10 15:15:53,776:Calling on_end with no data
+DEBUG:2024-01-10 15:15:53,776:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_start with no data
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_name with data[0:8]
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_data with data[9:18]
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_end with no data
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_start with no data
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_name with data[19:27]
+DEBUG:2024-01-10 15:16:30,644:Calling on_field_data with data[28:32]
+DEBUG:2024-01-10 15:16:30,645:Calling on_field_end with no data
+DEBUG:2024-01-10 15:16:30,645:Calling on_end with no data
+DEBUG:2024-01-10 15:16:30,645:ip_add: 192.168.217.145
+INFO:2024-01-10 15:16:42,603:login successfully: h.mirzaei
+INFO:2024-01-10 15:16:42,611:Address(host='127.0.0.1', port=52761)
+DEBUG:2024-01-10 15:16:42,618:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:16:42,632:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:17:01,040:Calling on_field_start with no data
+DEBUG:2024-01-10 15:17:01,040:Calling on_field_name with data[0:10]
+DEBUG:2024-01-10 15:17:01,040:Calling on_field_data with data[11:21]
+DEBUG:2024-01-10 15:17:01,040:Calling on_field_end with no data
+DEBUG:2024-01-10 15:17:01,041:Calling on_end with no data
+DEBUG:2024-01-10 15:17:01,041:ip_add: 192.168.217.145
+DEBUG:2024-01-10 15:17:01,045:NationalID: 2210063876
+INFO:2024-01-10 15:17:01,045:2210063876
+DEBUG:2024-01-10 15:17:01,049:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-10 15:17:03,037:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1989

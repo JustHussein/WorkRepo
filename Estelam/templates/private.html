@@ -1,0 +1,190 @@
+{% extends "base.html" %}
+
+{% block title %}استعلام{% endblock %}
+
+{% block header %}
+    <div style="float: right">
+    {% include '_site_map.html' %}
+    </div>
+    <br>
+    <h1 style="text-align: center;">سامانه استعلام مدرک تحصیلی</h1>
+{% endblock %}
+
+{% block content %}
+{% for error in errors %}
+    <p style="color: red">{{ error }}</p>
+{% endfor %}
+<br>
+    <div class="col-lg-6 offset-lg-3 row navbar navbar-light bg-light" >
+        <div class="col container-fluid">
+            <form style="margin-top: 25px;margin-bottom: 25px" method="post" action="/estelam">
+                <label style="margin-top: auto"  for="nationalID">شماره ملی را وارد کنید:</label>
+                <input type="text" class="form-control me-2" maxlength="10" id="nationalID" name="nationalID" value="{{ nationalID }}">
+                <br>
+                <button class="btn btn-outline-success" type="submit">استعلام</button>
+            </form>
+        </div>
+        <div class="col">
+            <input hidden="hidden" type="text" class="form-control" placeholder="Last name">
+        </div>
+    </div>
+<br>
+
+{% if detail_error %}
+<hr>
+  <p style="color: red; text-align: center">{{detail_error}}</p>
+{% endif %}
+
+{% if result %}
+<hr>
+<div style="text-align: center;">
+  <button onclick="printDiv('print-content' )">چاپ</button>
+</div>
+
+
+</br>
+
+<div id="print-content" >
+
+<h2>مشخصات فردی</h2>
+
+  <div class="row">
+    <div class="col">
+        <label class="form-label">نام</label>
+        <input type="text" class="form-control" disabled="" value="{{ result[1]['firstName']}}">
+    </div>
+    <div class="col">
+        <label class="form-label">نام خانوادگی</label>
+        <input type="text" class="form-control" disabled="" value="{{ result[1]['lastName']}}">    </div>
+    </div>
+
+    <div class="row">
+          <div class="col">
+        <label class="form-label">نام پدر</label>
+        <input type="text" class="form-control" disabled="" value="{{ result[1]['fatherName']}}">
+          </div>
+
+          <div class="col">
+        <label class="form-label">کدملی</label>
+        <input type="text" class="form-control" disabled="" value="{{ result[1]['nationalCode']}}">
+          </div>
+    </div>
+
+    <div class="row">
+          <div class="col">
+        <label class="form-label">شماره شماسنامه</label>
+        <input type="text" class="form-control" disabled="" value="{{ result[1]['identificationNo']}}">
+          </div>
+
+          <div class="col">
+        <label class="form-label">تاریخ تولد</label>
+        <input type="text" class="form-control" disabled="" value="{{ result[1]['birthDate']}}">
+          </div>
+
+    </div>
+    <br>
+
+
+
+
+
+    {% for i,j in result2 %}
+    <h2>{{i['studyLevelDesc']}}</h2>
+        <div class="row">
+          <div class="col">
+        <label class="form-label">دانشگاه</label>
+        <input type="text" class="form-control" disabled="" value="{{j['universityDesc']}}">
+          </div>
+
+          <div class="col">
+        <label class="form-label">رشته تحصیلی</label>
+        <input type="text" class="form-control" disabled="" value="{{i['courseStudyDesc']}}">
+          </div>
+    </div>
+        <div class="row">
+          <div class="col">
+        <label class="form-label">نوع دوره قبولی</label>
+        <input type="text" class="form-control" disabled="" value="{{i['studyingModeDesc']}}">
+          </div>
+
+          <div class="col">
+        <label class="form-label">تاریخ شروع تحصیل</label>
+        <input type="text" class="form-control" disabled="" value="{{i['startDate']}}">
+          </div>
+    </div>
+        <div class="row">
+          <div class="col">
+        <label class="form-label">تاریخ فارغ التحصیلی</label>
+        <input type="text" class="form-control" disabled="" value="{{i['stopDate']}}">
+          </div>
+
+            {% set Average = j['totalAverage']%}
+          <div class="col">
+        <label class="form-label">معدل</label>
+        <input type="text" class="form-control" disabled="" value="{{Average}}">
+          </div>
+
+        </div>
+        <div class="row">
+          <div class="col">
+        <label class="form-label">وضعیت</label>
+        <input type="text" class="form-control" disabled="" value="{{i['studentStatusDesc']}}">
+          </div>
+
+          <div   class="col">
+        <label hidden class="form-label"></label>
+        <input hidden type="text" class="form-control" disabled="" value="">
+          </div>
+    </div>
+
+        <br>
+    {% endfor %}
+    {% endif %}
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+
+<style>
+    @media print {
+        body * {
+            visibility: hidden;
+        }
+        #print-content, #print-content * {
+            visibility: visible;
+        }
+        #print-content {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    }
+</style>
+
+<script>
+    function printDiv(divName) {
+        var printContents = document.getElementById(divName).innerHTML;
+        var originalContents = document.body.innerHTML;
+
+        document.body.innerHTML = printContents;
+
+        window.print();
+
+        document.body.innerHTML = originalContents;
+    }
+</script>
+
+
+
+{% endblock %}
+
+{% block footer %}
+{% endblock %}

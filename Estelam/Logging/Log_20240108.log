@@ -1,0 +1,196 @@
+DEBUG:2024-01-08 13:41:44,950:Calling on_field_start with no data
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_data with data[9:18]
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_end with no data
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_start with no data
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_name with data[19:27]
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_data with data[28:32]
+DEBUG:2024-01-08 13:41:44,951:Calling on_field_end with no data
+DEBUG:2024-01-08 13:41:44,951:Calling on_end with no data
+DEBUG:2024-01-08 13:41:44,953:ip_add: 192.168.217.145
+INFO:2024-01-08 13:41:45,276:login successfully: h.mirzaei
+INFO:2024-01-08 13:41:45,281:Address(host='127.0.0.1', port=63171)
+DEBUG:2024-01-08 13:41:45,287:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:41:45,295:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:41:53,293:Calling on_field_start with no data
+DEBUG:2024-01-08 13:41:53,293:Calling on_field_name with data[0:10]
+DEBUG:2024-01-08 13:41:53,293:Calling on_field_data with data[11:21]
+DEBUG:2024-01-08 13:41:53,293:Calling on_field_end with no data
+DEBUG:2024-01-08 13:41:53,293:Calling on_end with no data
+DEBUG:2024-01-08 13:41:53,295:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:41:53,298:NationalID: 3392761257
+INFO:2024-01-08 13:41:53,298:3392761257
+DEBUG:2024-01-08 13:41:53,301:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-08 13:41:55,337:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1915
+DEBUG:2024-01-08 13:43:01,504:Calling on_field_start with no data
+DEBUG:2024-01-08 13:43:01,504:Calling on_field_name with data[0:10]
+DEBUG:2024-01-08 13:43:01,504:Calling on_field_data with data[11:24]
+DEBUG:2024-01-08 13:43:01,505:Calling on_field_end with no data
+DEBUG:2024-01-08 13:43:01,505:Calling on_end with no data
+DEBUG:2024-01-08 13:43:01,506:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:45:41,359:Calling on_field_start with no data
+DEBUG:2024-01-08 13:45:41,359:Calling on_field_name with data[0:10]
+DEBUG:2024-01-08 13:45:41,359:Calling on_field_data with data[11:21]
+DEBUG:2024-01-08 13:45:41,359:Calling on_field_end with no data
+DEBUG:2024-01-08 13:45:41,359:Calling on_end with no data
+DEBUG:2024-01-08 13:45:41,360:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:45:41,378:NationalID: 3410146962
+INFO:2024-01-08 13:45:41,378:3410146962
+DEBUG:2024-01-08 13:45:41,380:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-08 13:45:45,589:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1748
+DEBUG:2024-01-08 13:45:45,592:Calling on_field_start with no data
+DEBUG:2024-01-08 13:45:45,592:Calling on_field_name with data[0:10]
+DEBUG:2024-01-08 13:45:45,592:Calling on_field_data with data[11:21]
+DEBUG:2024-01-08 13:45:45,592:Calling on_field_end with no data
+DEBUG:2024-01-08 13:45:45,592:Calling on_end with no data
+DEBUG:2024-01-08 13:45:45,592:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:45:45,596:NationalID: 3410146962
+INFO:2024-01-08 13:45:45,597:3410146962
+DEBUG:2024-01-08 13:45:45,599:Starting new HTTPS connection (1): core.eduix.msrt.ir:443
+DEBUG:2024-01-08 13:45:47,784:https://core.eduix.msrt.ir:443 "POST / HTTP/1.1" 200 1749
+DEBUG:2024-01-08 13:46:53,143:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:46:53,195:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:53:25,200:Calling on_field_start with no data
+DEBUG:2024-01-08 13:53:25,200:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:53:25,200:Calling on_field_data with data[9:13]
+DEBUG:2024-01-08 13:53:25,200:Calling on_field_end with no data
+DEBUG:2024-01-08 13:53:25,200:Calling on_field_start with no data
+DEBUG:2024-01-08 13:53:25,200:Calling on_field_name with data[14:22]
+DEBUG:2024-01-08 13:53:25,201:Calling on_field_data with data[23:35]
+DEBUG:2024-01-08 13:53:25,201:Calling on_field_end with no data
+DEBUG:2024-01-08 13:53:25,201:Calling on_end with no data
+DEBUG:2024-01-08 13:53:25,201:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:20,089:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 13:57:20,090:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,090:Calling on_end with no data
+DEBUG:2024-01-08 13:57:20,090:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 13:57:20,169:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,169:Calling on_end with no data
+DEBUG:2024-01-08 13:57:20,169:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:20,209:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 13:57:20,210:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,210:Calling on_end with no data
+DEBUG:2024-01-08 13:57:20,210:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:20,228:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,228:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:20,228:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 13:57:20,228:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,228:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,228:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 13:57:20,229:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 13:57:20,229:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,229:Calling on_end with no data
+DEBUG:2024-01-08 13:57:20,229:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_data with data[9:13]
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_name with data[14:22]
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_data with data[23:35]
+DEBUG:2024-01-08 13:57:20,269:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,269:Calling on_end with no data
+DEBUG:2024-01-08 13:57:20,269:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_data with data[9:13]
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_name with data[14:22]
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_data with data[23:35]
+DEBUG:2024-01-08 13:57:20,289:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:20,289:Calling on_end with no data
+DEBUG:2024-01-08 13:57:20,290:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:26,609:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:26,609:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:26,609:Calling on_field_data with data[9:13]
+DEBUG:2024-01-08 13:57:26,609:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:26,610:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:26,610:Calling on_field_name with data[14:22]
+DEBUG:2024-01-08 13:57:26,610:Calling on_field_data with data[23:35]
+DEBUG:2024-01-08 13:57:26,610:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:26,610:Calling on_end with no data
+DEBUG:2024-01-08 13:57:26,611:ip_add: 192.168.217.145
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_start with no data
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 13:57:45,390:Calling on_field_end with no data
+DEBUG:2024-01-08 13:57:45,391:Calling on_end with no data
+DEBUG:2024-01-08 13:57:45,391:ip_add: 192.168.217.145
+DEBUG:2024-01-08 15:00:30,621:Calling on_field_start with no data
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_end with no data
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_start with no data
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 15:00:30,622:Calling on_field_end with no data
+DEBUG:2024-01-08 15:00:30,622:Calling on_end with no data
+DEBUG:2024-01-08 15:00:30,622:ip_add: 192.168.217.145
+DEBUG:2024-01-08 15:00:59,909:Calling on_field_start with no data
+DEBUG:2024-01-08 15:00:59,909:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 15:00:59,910:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 15:00:59,910:Calling on_field_end with no data
+DEBUG:2024-01-08 15:00:59,910:Calling on_field_start with no data
+DEBUG:2024-01-08 15:00:59,910:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 15:00:59,910:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 15:00:59,910:Calling on_field_end with no data
+DEBUG:2024-01-08 15:00:59,910:Calling on_end with no data
+DEBUG:2024-01-08 15:00:59,910:ip_add: 192.168.217.145
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_start with no data
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_end with no data
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_start with no data
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 15:01:22,381:Calling on_field_end with no data
+DEBUG:2024-01-08 15:01:22,381:Calling on_end with no data
+DEBUG:2024-01-08 15:01:22,381:ip_add: 192.168.217.145
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_start with no data
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_data with data[9:28]
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_end with no data
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_start with no data
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_name with data[29:37]
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_data with data[38:57]
+DEBUG:2024-01-08 15:01:39,273:Calling on_field_end with no data
+DEBUG:2024-01-08 15:01:39,273:Calling on_end with no data
+DEBUG:2024-01-08 15:01:39,274:ip_add: 192.168.217.145
+DEBUG:2024-01-08 15:01:47,021:Calling on_field_start with no data
+DEBUG:2024-01-08 15:01:47,021:Calling on_field_name with data[0:8]
+DEBUG:2024-01-08 15:01:47,021:Calling on_field_data with data[9:18]
+DEBUG:2024-01-08 15:01:47,021:Calling on_field_end with no data
+DEBUG:2024-01-08 15:01:47,022:Calling on_field_start with no data
+DEBUG:2024-01-08 15:01:47,022:Calling on_field_name with data[19:27]
+DEBUG:2024-01-08 15:01:47,022:Calling on_field_data with data[28:32]
+DEBUG:2024-01-08 15:01:47,022:Calling on_field_end with no data
+DEBUG:2024-01-08 15:01:47,022:Calling on_end with no data
+DEBUG:2024-01-08 15:01:47,022:ip_add: 192.168.217.145
+INFO:2024-01-08 15:01:47,026:login successfully: h.mirzaei
+INFO:2024-01-08 15:01:47,032:Address(host='127.0.0.1', port=50000)
+DEBUG:2024-01-08 15:01:47,037:ip_add: 192.168.217.145
+DEBUG:2024-01-08 15:01:47,043:ip_add: 192.168.217.145
