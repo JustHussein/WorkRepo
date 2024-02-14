@@ -1,0 +1,10 @@
+download open ssl
+https://slproweb.com/products/Win32OpenSSL.html
+
+openssl genpkey -algorithm RSA -out key.pem
+
+openssl req -new -key key.pem -out csr.pem
+
+openssl x509 -req -in csr.pem -signkey key.pem -out cert.pem
+
+uvicorn main:app --host 0.0.0.0 --port 8000 --ssl-keyfile C:\path\to\key.pem --ssl-certfile C:\path\to\cert.pem --reload
